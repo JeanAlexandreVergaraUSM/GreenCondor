@@ -28,18 +28,6 @@ El proyecto fue construido utilizando tecnologías web estándar y librerías mo
 4.  **Feedback Visual:** Alertas y cambios de estado en los botones ("Enviando...", "¡Recibido!") para mejorar la experiencia de usuario (UX).
 5.  **Secciones Informativas:** Inicio (Hero), Sobre Nosotros, Servicios y Contacto.
 
-## 🚀 Instalación y Uso Local
-
-Si deseas correr este proyecto en tu computadora local:
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/JeanAlexandreVergaraUSM/GreenCondor.git](https://github.com/JeanAlexandreVergaraUSM/GreenCondor.git)
-    ```
-
-2.  **Abrir el proyecto:**
-    Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador de preferencia.
-
 ## ⚙️ Configuración de EmailJS
 
 Para que los formularios funcionen correctamente en tu propio entorno, debes configurar tus credenciales en el archivo `logica.js`.
