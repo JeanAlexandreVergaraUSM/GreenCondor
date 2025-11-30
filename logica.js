@@ -2,7 +2,7 @@
 
 // --- CONFIGURACIÓN (Rellena esto con tus datos de EmailJS) ---
 // Como no tengo tus claves reales, pongo marcadores. Tienes que reemplazarlos.
-const SERVICE_ID = "service_i5t2unb";   // Pega aquí tu Service ID
+const SERVICE_ID = "service_253zu15"; 
 const TEMPLATE_ID = "template_5a2zmd9"; // Pega aquí tu Template ID
 const PUBLIC_KEY = "tNF1isIZRL8eNaKnw";    // Pega aquí tu Public Key
 
@@ -88,4 +88,5 @@ if (fullForm) {
                 btn.innerText = textoOriginal;
             });
     });
+
 }
